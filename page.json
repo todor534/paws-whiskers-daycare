@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "name": "Paws & Whiskers Daycare",
+    "accent": "#FFB347"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Loving Daycare for Dogs & Cats",
+      "subheadline": "Safe, playful, and caring environment for your furry friends. Book your pet’s stay today!",
+      "primaryCta": {
+        "label": "Book Now",
+        "href": "/book"
+      },
+      "image": {
+        "kind": "url",
+        "name": "happy dog and cat",
+        "url": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Safe & Loving Environment",
+          "desc": "Our facility is designed to ensure your pets feel comfortable, secure, and cared for at all times."
+        },
+        {
+          "title": "Experienced Staff",
+          "desc": "Our trained team provides attentive supervision and personalized care for every dog and cat."
+        },
+        {
+          "title": "Play & Socialization",
+          "desc": "Daily activities and playgroups help your pets stay active, happy, and well-socialized."
+        },
+        {
+          "title": "Flexible Scheduling",
+          "desc": "We offer convenient drop-off and pick-up times to fit your busy lifestyle."
+        },
+        {
+          "title": "Clean & Hygienic Facility",
+          "desc": "We maintain high standards of cleanliness to keep your pets healthy and safe."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Jessica R.",
+          "quote": "My dog absolutely loves coming here! The staff is caring and attentive."
+        },
+        {
+          "name": "Mark T.",
+          "quote": "Our cat is always relaxed and happy after a stay. Highly recommend this daycare!"
+        },
+        {
+          "name": "Emily S.",
+          "quote": "Professional, clean, and trustworthy. I feel confident leaving my pets here every time."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Day Pass",
+          "price": "$30",
+          "period": "per day",
+          "features": [
+            "Full day of daycare",
+            "Supervised playtime",
+            "Feeding included",
+            "Photo updates"
+          ]
+        },
+        {
+          "name": "Weekly Pass",
+          "price": "$135",
+          "period": "per week",
+          "features": [
+            "5 days of daycare",
+            "Discounted rate",
+            "Priority booking",
+            "Daily photo updates"
+          ]
+        },
+        {
+          "name": "Monthly Pass",
+          "price": "$500",
+          "period": "per month",
+          "features": [
+            "Unlimited daycare",
+            "Complimentary bath (1/month)",
+            "Personalized care report",
+            "Priority booking"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What are your daycare hours?",
+          "a": "Our daycare is open Monday to Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM."
+        },
+        {
+          "q": "Do you accept both dogs and cats?",
+          "a": "Yes, we welcome both dogs and cats in our daycare, with separate play areas for each."
+        },
+        {
+          "q": "What vaccinations are required?",
+          "a": "All pets must be up-to-date on their vaccinations. Dogs need rabies, distemper, and bordetella; cats need rabies and FVRCP."
+        },
+        {
+          "q": "Can I tour the facility before enrolling my pet?",
+          "a": "Absolutely! Contact us to schedule a tour and see our clean, safe, and fun environment."
+        },
+        {
+          "q": "Do you offer half-day daycare options?",
+          "a": "Yes, we offer both full-day and half-day daycare packages to fit your schedule."
+        }
+      ]
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Book a Free Daycare Tour for Your Pet",
+      "placeholder": "Enter your email address",
+      "button": "Schedule Now"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Paws & Whiskers Daycare. Loving care for your pets every day."
+    }
+  ]
+}
